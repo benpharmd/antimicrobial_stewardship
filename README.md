@@ -18,14 +18,14 @@ Characterized by having a thick layer of peptidoglycan in their cell wall
 
 Two main groups - Spore-forming and Non-spore-forming
 
-Spore-forming examples
-1. Bacillus anthracis: Anthrax
-2. Bacillus subtilis: used in production of antibiotics, enzymes and industrial products
-3. Bacillus cereus: Food poisoning by way of producing enterotoxins
-4. Clostridium tetani: Tetanus
-5. Clostridium botulinum: Botulism and Botox
-6. Clostridium difficile: C. diff. 
-7. Clostridium perfringens: Gas gangrene, food poisoning, etc.
+#### Spore-forming examples
+1. *Bacillus anthracis*: Anthrax
+2. *Bacillus subtilis*: used in production of antibiotics, enzymes and industrial products
+3. *Bacillus cereus*: Food poisoning by way of producing enterotoxins
+4. *Clostridium tetani*: Tetanus
+5. *Clostridium botulinum*: Botulism and Botox
+6. *Clostridium difficile*: C. diff. 
+7. *Clostridium perfringens*: Gas gangrene, food poisoning, etc.
 
 ### Gram Negative
 
