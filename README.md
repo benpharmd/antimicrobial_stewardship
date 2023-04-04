@@ -16,6 +16,8 @@ bugs and drugs
 Characterized by having a thick layer of peptidoglycan in their cell wall
 - Peptidoglycan retains crystal violet stain in gram staining
 
+![Peptidoglycan](https://upload.wikimedia.org/wikipedia/commons/2/2f/Peptidoglycan-membrane.png)
+
 Two main groups - Spore-forming and Non-spore-forming
 
 #### Spore-forming examples
