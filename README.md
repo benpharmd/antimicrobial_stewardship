@@ -17,6 +17,7 @@ Characterized by having a thick layer of peptidoglycan in their cell wall
 - Peptidoglycan retains crystal violet stain in gram staining
 
 Two main groups - Spore-forming and Non-spore-forming
+
 Spore-forming examples
 1. Bacillus anthracis: Anthrax
 2. Bacillus subtilis: used in production of antibiotics, enzymes and industrial products
