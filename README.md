@@ -27,6 +27,17 @@ Two main groups - Spore-forming and Non-spore-forming
 6. *Clostridium difficile*: C. diff. 
 7. *Clostridium perfringens*: Gas gangrene, food poisoning, etc.
 
+#### Non-spore-forming examples
+1. *Streptococcus pyogenes*: Strep throat, skin and soft tissue infections (SSTIs), scarlet fever
+2. *Streptococcus pneumoniae*: Pneumonia (PNA) and meningitis
+3. *Staphylococcus aureus*: SSTIs, abscesses, PNA, bacteremia, endocarditis, etc
+4. *Enterococcus Faecalis*: Urinary tract infections (UTIs), endocarditis, bacteremia, etc
+5. *Listeria monocytogene*s: Foodborne illness
+6. *Corynbacterium diphtheriae*: Diphtheria
+7. *Propionibacterium acnes*: A common cause of acne
+8. *Mycobacterium tuberculosis*: Tuberculosis
+9. *Lactobacillus acidophilus*: Probiotic bacterium 
+
 ### Gram Negative
 
 ### Viral
