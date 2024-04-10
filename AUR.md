@@ -2,7 +2,7 @@
 
 - Give sufficient time for cultures to result (~7 days after end of month) before compiling/submitting data
 - 3rd party vendors will do this for you
-- The CDC has comprehensive lists for (AU vendors)[https://www.cdc.gov/nhsn/cdaportal/sds/au-vendor-list.html] as well as (AR vendors)[https://www.cdc.gov/nhsn/cdaportal/sds/ar-vendor-list.html]
+- The CDC has comprehensive lists for [AU vendors](https://www.cdc.gov/nhsn/cdaportal/sds/au-vendor-list.html) as well as [AR vendors](https://www.cdc.gov/nhsn/cdaportal/sds/ar-vendor-list.html)
 
 
 ## NHSN AUR: definitions, codes, locations, reporting plan
